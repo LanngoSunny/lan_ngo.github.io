@@ -1,2 +1,2 @@
-# sunnyLan.github.io
+# SunnyLan.github.io
 Portfolio
